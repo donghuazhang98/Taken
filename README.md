@@ -1,6 +1,6 @@
 # Taken
 
-A demo 3D game created in Unity. Player need to control the cars the save all of the hostages in the map and find the exit.
+A demo 3D game group project created in Unity. Player need to control the cars the save all of the hostages in the map and find the exit.
 
 Demo video: https://drive.google.com/file/d/1WLRkArpBCY75NYfBNGmEDR_fZaNY5kRO/view?usp=sharing
 
@@ -10,7 +10,7 @@ The assets we found online:
 - The traps particles effect pack
 - The hostage model
 
-The part we did:
+The parts we did:
 - The main camera script which determines following the car and switch directions when go forward and backward
 - The saving hostages script that controls the progress bar when saving the hostages
 - The door control scripts and animation

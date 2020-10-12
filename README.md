@@ -10,7 +10,7 @@ The assets we found online:
 - The traps particles effect pack
 - The hostage model
 
-The parts we did:
+The parts we implemented:
 - The main camera script which determines following the car and switch directions when go forward and backward
 - The saving hostages script that controls the progress bar when saving the hostages
 - The door control scripts and animation
